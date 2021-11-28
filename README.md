@@ -1,2 +1,2 @@
 # Blood-bank-management-system
-this is blood bank management system in c++
+This project is for a blood bank management system.
