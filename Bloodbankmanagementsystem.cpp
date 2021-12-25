@@ -149,7 +149,7 @@ public:
         home_details << "CAMP DETAILS:-" << endl;
         home_details << "=================================================================================" << endl;
         home_details << "Hello everyone..." << endl;
-        home_details << "\tWe have arranged for a blood bank camp at 'SHRI GURU GOBIND SINGHJI INSTITUTE OF ENGINEERING AND TECHNOLOGY' , MADURAI..." << endl;
+        home_details << "\tWe have arranged for a blood bank camp at 'SHRI GURU GOBIND SINGHJI INSTITUTE OF ENGINEERING AND TECHNOLOGY' , NANDED..." << endl;
         home_details << "We welcome you all to attend the camp and save the valuable life of others." << endl;
         home_details << "For further details contact blood bank." << endl;
         home_details << "Mail id : wakdeshravni@gmail.com" << endl;
